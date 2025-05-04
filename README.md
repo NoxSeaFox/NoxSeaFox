@@ -1,4 +1,5 @@
 ## Hello there 👋
+- 🌱 I’m currently learning C#
 <!--
 - 👋 Hi, I’m @noxseafox
 - 👀 I’m interested in ...
