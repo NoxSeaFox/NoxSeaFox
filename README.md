@@ -1,5 +1,5 @@
 ## Introduction
-- 👋 Hi, I’m @noxseafox
+- 👋 Hi, I’m @NoxSeaFox
 - 🌱 I’m currently learning **GitHub** and **C#**
 <!--
 - 👋 Hi, I’m @noxseafox
