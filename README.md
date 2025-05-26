@@ -1,6 +1,6 @@
 ## Introduction
 - 👋 Hi, I’m @NoxSeaFox
-- 🌱 I’m currently learning **GitHub** and **C#**
+- 🌱 I’m currently learning **Git**, **GitHub** and **C#**
 <!--
 - 👋 Hi, I’m @noxseafox
 - 👀 I’m interested in ...
