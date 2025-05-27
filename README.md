@@ -1,4 +1,4 @@
-## Welcome to my profile!
+# About me
 - 👋 Hi, I’m @NoxSeaFox
 - 🌱 I’m currently learning **Git**, **GitHub** and **C#**
 <!--
