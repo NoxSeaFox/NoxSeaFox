@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, welcome to my profile!
+- 👋 Hello there, welcome to my profile!
 - 🌱 I’m currently learning **Git**, **GitHub** and **C#**
 <!--
 - 👋 Hi, I’m @noxseafox
