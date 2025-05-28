@@ -1,6 +1,7 @@
 # About me
 - 👋 Hello there, welcome to my profile!
 - 🌱 I’m currently learning **Git**, **GitHub** and **C#**
+- 👀 I’m interested in gaming, running and everything else that can give me an creative outlet.
 <!--
 - 👋 Hi, I’m @noxseafox
 - 👀 I’m interested in ...
